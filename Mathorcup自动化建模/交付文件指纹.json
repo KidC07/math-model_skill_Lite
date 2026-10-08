@@ -1,0 +1,182 @@
+[
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/agents/openai.yaml",
+    "bytes": 356,
+    "sha256": "71ab79b0f770bb14887c4c07a24c8358750d459625c7fdfd57f3986a86fea276"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/references/baselines.md",
+    "bytes": 5575,
+    "sha256": "7412d72a5dfc071417994efcdf5d85d9813e1a73f8c77471288c66aa3e55d192"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/references/delivery.md",
+    "bytes": 4454,
+    "sha256": "231b1848ee1c7c2141f15e166b0651d0536b132fa97495417fda556df6872291"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/references/experiments.md",
+    "bytes": 4314,
+    "sha256": "acfe3119c91438c57813acd496583d04a1aded02ff111e3b3d5ae04e291bda21"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/references/expression.md",
+    "bytes": 5703,
+    "sha256": "6452571dc8bc94327ab1a3489491b74be9d05ed4fbe21d4aebc1ad44ab0b6cd6"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/references/figures.md",
+    "bytes": 2370,
+    "sha256": "749a0bedd4147e63e3fc602ffcc1f5468aac2cc93a204388d26659794c75bb32"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/references/model-guides/classification.md",
+    "bytes": 1414,
+    "sha256": "0bbb07b99b663ecb308148d0375a3c0dc23585f425445f397df7df2ecaafdd3d"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/references/model-guides/clustering.md",
+    "bytes": 1377,
+    "sha256": "a70d974ff6c30ec4b1c80c363bc5e66b659174bd405d8d3802cbae6fb2f8440a"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/references/model-guides/evaluation.md",
+    "bytes": 1743,
+    "sha256": "13cfede1531f764e37ad23a549cd4ae1470575ba32ac3c6ae81c13f4a2544c97"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/references/model-guides/forecasting.md",
+    "bytes": 1566,
+    "sha256": "dcb5f1d7e343e10cfc09aa9c6cc9b0ddc19657c348fa261cf896dbd923755a9d"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/references/model-guides/mechanistic.md",
+    "bytes": 1359,
+    "sha256": "e401c58b5dee716e7f3f9953be5d27dae99047b1cbb6c5fa841c8132731b23c2"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/references/model-guides/optimization.md",
+    "bytes": 1628,
+    "sha256": "2a46f87b69b8e51794676d7393ab48589a51ed7a45c7a4ba0661e68a13ef815f"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/scripts/baseline_models.py",
+    "bytes": 10157,
+    "sha256": "bc7fc7477fc908530154fa0b903502e006e03b53c797e0f12645412fbcd5e60c"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/scripts/evidence.py",
+    "bytes": 4457,
+    "sha256": "0087d0ce45f75118e38d085fa41bd319889dcde87441cb22f91bfa3670347441"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/scripts/figure_tools.py",
+    "bytes": 5545,
+    "sha256": "4ae95d38b9c057efff58f33ba78a5430b4db2171ff77fb80d887a7775a436cdf"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/scripts/local_check.py",
+    "bytes": 13813,
+    "sha256": "805972baa0b2e697b8ac3c32c886c505779b69d503b897e280aef9b77a03786b"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/scripts/validate_package.py",
+    "bytes": 3040,
+    "sha256": "3520e129b997331399b8fe2a8af2bbabd3468926f89c1fa6f26f99c4b1ef4f79"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/SKILL.md",
+    "bytes": 7171,
+    "sha256": "0d030d120702e5083b884e092363db1533536b0f230726a8fd1807ae26b9c498"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/tests/test_baselines.py",
+    "bytes": 8032,
+    "sha256": "da68fe5b0e53af09911502bc39071775551b5381caaff9ff364afa7854551592"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/tests/test_figures.py",
+    "bytes": 2355,
+    "sha256": "09ce24c780087e694cfe1dcf4984719d0cbe91d9ea8a38e65f34f12c2f87341d"
+  },
+  {
+    "path": "Mathorcup自动化建模/.agents/skills/mathorcup-modeling/tests/test_tools.py",
+    "bytes": 7626,
+    "sha256": "0afe2cca938f24af86782a6d8770c625eadf800f4b124fcc938d020d8a93102d"
+  },
+  {
+    "path": "Mathorcup自动化建模/.vscode/extensions.json",
+    "bytes": 85,
+    "sha256": "276246900068ac2a6c301b3a470e0c2676125f8e9206b2bc28cd4f8f2af67349"
+  },
+  {
+    "path": "Mathorcup自动化建模/.vscode/settings.json",
+    "bytes": 649,
+    "sha256": "6d09df346c3313fb2f068c88281e66facfd7f7d4f187659366504cde72946d0b"
+  },
+  {
+    "path": "Mathorcup自动化建模/AGENTS.md",
+    "bytes": 1868,
+    "sha256": "36c084f8a51ebdd7a743311e955fc8c6e1704d4ec14c1503f46944a9ebcc2ad3"
+  },
+  {
+    "path": "Mathorcup自动化建模/Agent环境配置指南.md",
+    "bytes": 9191,
+    "sha256": "4176f1ffafc5f10aa3e55a9204c45de9ccf8d9bcc33286d662c46ce06d7b9d3e"
+  },
+  {
+    "path": "Mathorcup自动化建模/requirements.txt",
+    "bytes": 172,
+    "sha256": "2e791c3fc01060926a63ba0bd3c17cf4b7d718082653bd472ba4f19b5ab353e4"
+  },
+  {
+    "path": "Mathorcup自动化建模/THIRD_PARTY_NOTICES.txt",
+    "bytes": 1634,
+    "sha256": "56f254af5def2c9d355635c441c8de352db666f192e621618ea172256e6140a9"
+  },
+  {
+    "path": "Mathorcup自动化建模/使用说明.md",
+    "bytes": 3647,
+    "sha256": "4860434b8e8aba33aaa8a459c83ebe3efb1a1d66136cd944718b084029652a9c"
+  },
+  {
+    "path": "Mathorcup自动化建模/启动检查.ps1",
+    "bytes": 2428,
+    "sha256": "4a6fece406f5fee2f5e9373aa4bcaa6c39a3f37187e48366dfe14b1970c43b61"
+  },
+  {
+    "path": "Mathorcup自动化建模/快速检查.py",
+    "bytes": 2690,
+    "sha256": "fed2cce9678899670f04bf3e45423fd7e928ed1b34abfff889024a487072b488"
+  },
+  {
+    "path": "Mathorcup自动化建模/文档源文件/打包交付.py",
+    "bytes": 2185,
+    "sha256": "9b49cf14c8eeaeb98f88c00e8cd660c9ed1f5165f1db4af0592c185ffbf40bd0"
+  },
+  {
+    "path": "Mathorcup自动化建模/文档源文件/生成环境手册.py",
+    "bytes": 5812,
+    "sha256": "41caf30081d0fa75d84ec2210d0e391091750834852864d320cce87bfb1751ee"
+  },
+  {
+    "path": "Mathorcup自动化建模/文档源文件/队友竞赛环境手册.md",
+    "bytes": 3177,
+    "sha256": "d309802f5c836df4e33bf70cabc8bc81681426dfe5de3a42f8e857e51f2a6029"
+  },
+  {
+    "path": "Mathorcup自动化建模/本机环境.json",
+    "bytes": 184,
+    "sha256": "08c36b3f39957afb62e5becf5c5b5efda5061be395293abbd098cfb5d586e419"
+  },
+  {
+    "path": "Mathorcup自动化建模/设计取舍与来源.md",
+    "bytes": 5839,
+    "sha256": "416c75106d55bb5209f9e1bb0a7dd55579b374ebec9f9b7cc83cf73ea8d4602f"
+  },
+  {
+    "path": "Mathorcup自动化建模/队友竞赛环境手册.pdf",
+    "bytes": 151061,
+    "sha256": "392d4f9d867aec26d7164bde4450b888c411660ea0fd647bb5f2af4fd5fa5a03"
+  }
+]

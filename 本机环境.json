@@ -1,0 +1,4 @@
+{
+  "note": "Optional hints for existing interpreters; missing paths are ignored. Teammates can use -Python instead. No environment is copied or changed.",
+  "python_candidates": []
+}

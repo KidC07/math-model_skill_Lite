@@ -1,0 +1,93 @@
+{
+  "checked_utc": "2026-10-01T07:39:40.135958+00:00",
+  "python": "3.12.14",
+  "executable": "C:\\Users\\liuda\\.local\\share\\math-modeling\\venv\\Scripts\\python.exe",
+  "platform": "Windows",
+  "mode": "synthetic_smoke",
+  "features": {
+    "numerics": {
+      "available": true,
+      "missing_modules": []
+    },
+    "learning": {
+      "available": true,
+      "missing_modules": []
+    },
+    "plot": {
+      "available": true,
+      "missing_modules": []
+    },
+    "excel": {
+      "available": true,
+      "missing_modules": []
+    },
+    "pdf": {
+      "available": true,
+      "missing_modules": []
+    },
+    "latex": {
+      "available": true,
+      "missing_modules": [],
+      "executable": "C:\\Users\\liuda\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\TinyTeX\\bin\\windows\\xelatex.exe"
+    }
+  },
+  "modules": {
+    "numpy": {
+      "available": true,
+      "version": null
+    },
+    "scipy": {
+      "available": true,
+      "version": null
+    },
+    "sklearn": {
+      "available": true,
+      "version": null
+    },
+    "matplotlib": {
+      "available": true,
+      "version": null
+    },
+    "openpyxl": {
+      "available": true,
+      "version": "3.1.5"
+    },
+    "fitz": {
+      "available": true,
+      "version": null
+    }
+  },
+  "ok": false,
+  "note": "Only these synthetic capability checks ran; this is not validation of a contest solution.",
+  "output": "E:\\数学建模\\Mathorcup自动化建模\\验证记录\\本机计算与成稿",
+  "synthetic_environment_example": true,
+  "checks": {
+    "numerics": {
+      "ok": false,
+      "error": "ImportError: \n\nIMPORTANT: PLEASE READ THIS FOR ADVICE ON HOW TO SOLVE THIS ISSUE!\n\nImporting the numpy C-extensions failed. This error can happen for\nmany reasons, often due to issues with your setup or how NumPy was\ninstalled.\n\nWe have compiled some common reasons and troubleshooting tips at:\n\n    https://numpy.org/devdocs/user/troubleshooting-importerror.html\n\nPlease note and check the following:\n\n  * The Python version is: Python 3.12 from \"C:\\Users\\liuda\\.local\\share\\math-modeling\\venv\\Scripts\\python.exe\"\n  * The NumPy version is: \"2.5.2\"\n\nand make sure that they are the versions you expect.\n\nPlease carefully study the information and documentation linked above.\nThis is unlikely to be a NumPy issue but will be caused by a bad install\nor environment on your machine.\n\nOriginal error was: DLL load failed while importing _multiarray_umath: 拒绝访问。\n"
+    },
+    "learning": {
+      "ok": false,
+      "error": "ImportError: \n\nIMPORTANT: PLEASE READ THIS FOR ADVICE ON HOW TO SOLVE THIS ISSUE!\n\nImporting the numpy C-extensions failed. This error can happen for\nmany reasons, often due to issues with your setup or how NumPy was\ninstalled.\n\nWe have compiled some common reasons and troubleshooting tips at:\n\n    https://numpy.org/devdocs/user/troubleshooting-importerror.html\n\nPlease note and check the following:\n\n  * The Python version is: Python 3.12 from \"C:\\Users\\liuda\\.local\\share\\math-modeling\\venv\\Scripts\\python.exe\"\n  * The NumPy version is: \"2.5.2\"\n\nand make sure that they are the versions you expect.\n\nPlease carefully study the information and documentation linked above.\nThis is unlikely to be a NumPy issue but will be caused by a bad install\nor environment on your machine.\n\nOriginal error was: DLL load failed while importing _multiarray_umath: 拒绝访问。\n"
+    },
+    "plot": {
+      "ok": false,
+      "error": "ImportError: \n\nIMPORTANT: PLEASE READ THIS FOR ADVICE ON HOW TO SOLVE THIS ISSUE!\n\nImporting the numpy C-extensions failed. This error can happen for\nmany reasons, often due to issues with your setup or how NumPy was\ninstalled.\n\nWe have compiled some common reasons and troubleshooting tips at:\n\n    https://numpy.org/devdocs/user/troubleshooting-importerror.html\n\nPlease note and check the following:\n\n  * The Python version is: Python 3.12 from \"C:\\Users\\liuda\\.local\\share\\math-modeling\\venv\\Scripts\\python.exe\"\n  * The NumPy version is: \"2.5.2\"\n\nand make sure that they are the versions you expect.\n\nPlease carefully study the information and documentation linked above.\nThis is unlikely to be a NumPy issue but will be caused by a bad install\nor environment on your machine.\n\nOriginal error was: DLL load failed while importing _multiarray_umath: 拒绝访问。\n"
+    },
+    "excel": {
+      "ok": true,
+      "details": {
+        "round_trip_rows": 6,
+        "formula_recalculation_tested": false
+      }
+    },
+    "pdf": {
+      "ok": false,
+      "error": "ImportError: DLL load failed while importing _extra: 拒绝访问。"
+    },
+    "latex": {
+      "ok": false,
+      "error": "RuntimeError: XeLaTeX version check failed"
+    }
+  }
+}

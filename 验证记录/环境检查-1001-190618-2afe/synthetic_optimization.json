@@ -1,0 +1,11 @@
+{
+  "synthetic_environment_example": true,
+  "lp_x": [
+    1.0,
+    3.0
+  ],
+  "lp_objective": 9.0,
+  "milp_objective": 9.0,
+  "enumerated_objective": 9,
+  "max_violation": 0.0
+}

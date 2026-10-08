@@ -1,0 +1,112 @@
+{
+  "checked_utc": "2026-10-01T08:35:52.005471+00:00",
+  "python": "3.12.14",
+  "executable": "C:\\Users\\liuda\\.local\\share\\math-modeling\\venv\\Scripts\\python.exe",
+  "platform": "Windows",
+  "mode": "synthetic_smoke",
+  "features": {
+    "numerics": {
+      "available": true,
+      "unavailable_modules": []
+    },
+    "plot": {
+      "available": true,
+      "unavailable_modules": []
+    },
+    "excel": {
+      "available": true,
+      "unavailable_modules": []
+    },
+    "pdf": {
+      "available": true,
+      "unavailable_modules": []
+    }
+  },
+  "modules": {
+    "numpy": {
+      "available": true,
+      "version": "2.5.2",
+      "import_tested": true
+    },
+    "scipy": {
+      "available": true,
+      "version": "1.18.1",
+      "import_tested": true
+    },
+    "pandas": {
+      "available": true,
+      "version": "3.0.5",
+      "import_tested": true
+    },
+    "matplotlib": {
+      "available": true,
+      "version": "3.11.1",
+      "import_tested": true
+    },
+    "seaborn": {
+      "available": true,
+      "version": "0.13.2",
+      "import_tested": true
+    },
+    "openpyxl": {
+      "available": true,
+      "version": "3.1.5",
+      "import_tested": true
+    },
+    "pymupdf": {
+      "available": true,
+      "version": "1.28.2",
+      "import_tested": true
+    }
+  },
+  "ok": true,
+  "note": "Only these synthetic capability checks ran; this is not validation of a contest solution.",
+  "output": "E:\\数学建模\\Mathorcup自动化建模\\验证记录\\绘图增强实测",
+  "synthetic_environment_example": true,
+  "checks": {
+    "numerics": {
+      "ok": true,
+      "details": {
+        "synthetic_environment_example": true,
+        "lp_x": [
+          1.0,
+          3.0
+        ],
+        "lp_objective": 9.0,
+        "milp_objective": 9.0,
+        "enumerated_objective": 9,
+        "max_violation": 0.0
+      }
+    },
+    "plot": {
+      "ok": true,
+      "details": {
+        "font": "msyh.ttc",
+        "formats": [
+          "png",
+          "pdf",
+          "svg"
+        ],
+        "synthetic_environment_example": true
+      }
+    },
+    "excel": {
+      "ok": true,
+      "details": {
+        "round_trip_rows": 6,
+        "formula_recalculation_tested": false
+      }
+    },
+    "pdf": {
+      "ok": true,
+      "details": {
+        "pages": 1,
+        "render_pixels": [
+          600,
+          328
+        ],
+        "note": "Programmatic checks passed; inspect the rendered page for final visual QA."
+      }
+    }
+  }
+}

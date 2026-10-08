@@ -1,0 +1,4 @@
+interface:
+  display_name: "数学建模通用 Skill"
+  short_description: "先验收基线，再按证据改进，按需调用方法库完成计算、图表与 LaTeX 论文"
+  default_prompt: "使用 $mathorcup-modeling 处理当前数学建模任务，先核对题意并验收基线，再按证据比较改进，交付可复现结果与 LaTeX 论文。"

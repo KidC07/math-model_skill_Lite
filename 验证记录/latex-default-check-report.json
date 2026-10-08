@@ -1,0 +1,128 @@
+{
+  "checked_utc": "2026-10-01T09:22:04.356329+00:00",
+  "python": "3.12.14",
+  "executable": "C:\\Users\\liuda\\.local\\share\\math-modeling\\venv\\Scripts\\python.exe",
+  "platform": "Windows",
+  "mode": "synthetic_smoke",
+  "features": {
+    "numerics": {
+      "available": true,
+      "unavailable_modules": []
+    },
+    "plot": {
+      "available": true,
+      "unavailable_modules": []
+    },
+    "excel": {
+      "available": true,
+      "unavailable_modules": []
+    },
+    "pdf": {
+      "available": true,
+      "unavailable_modules": []
+    },
+    "latex": {
+      "available": true,
+      "unavailable_modules": [],
+      "executable": "C:\\Users\\liuda\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\TinyTeX\\bin\\windows\\xelatex.exe"
+    }
+  },
+  "modules": {
+    "numpy": {
+      "available": true,
+      "version": "2.5.2",
+      "import_tested": true
+    },
+    "scipy": {
+      "available": true,
+      "version": "1.18.1",
+      "import_tested": true
+    },
+    "pandas": {
+      "available": true,
+      "version": "3.0.5",
+      "import_tested": true
+    },
+    "matplotlib": {
+      "available": true,
+      "version": "3.11.1",
+      "import_tested": true
+    },
+    "seaborn": {
+      "available": true,
+      "version": "0.13.2",
+      "import_tested": true
+    },
+    "openpyxl": {
+      "available": true,
+      "version": "3.1.5",
+      "import_tested": true
+    },
+    "pymupdf": {
+      "available": true,
+      "version": "1.28.2",
+      "import_tested": true
+    }
+  },
+  "ok": true,
+  "note": "Only these synthetic capability checks ran; this is not validation of a contest solution.",
+  "output": "E:\\数学建模\\任务临时文件\\mathorcup-latex-check-20261001",
+  "synthetic_environment_example": true,
+  "checks": {
+    "numerics": {
+      "ok": true,
+      "details": {
+        "synthetic_environment_example": true,
+        "lp_x": [
+          1.0,
+          3.0
+        ],
+        "lp_objective": 9.0,
+        "milp_objective": 9.0,
+        "enumerated_objective": 9,
+        "max_violation": 0.0
+      }
+    },
+    "plot": {
+      "ok": true,
+      "details": {
+        "font": "msyh.ttc",
+        "formats": [
+          "png",
+          "pdf",
+          "svg"
+        ],
+        "synthetic_environment_example": true
+      }
+    },
+    "excel": {
+      "ok": true,
+      "details": {
+        "round_trip_rows": 6,
+        "formula_recalculation_tested": false
+      }
+    },
+    "pdf": {
+      "ok": true,
+      "details": {
+        "pages": 1,
+        "render_pixels": [
+          600,
+          328
+        ],
+        "note": "Programmatic checks passed; inspect the rendered page for final visual QA."
+      }
+    },
+    "latex": {
+      "ok": true,
+      "details": {
+        "engine": "C:\\Users\\liuda\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\TinyTeX\\bin\\windows\\xelatex.exe",
+        "exit_code": 0,
+        "pdf_bytes": 20021,
+        "version": "XeTeX 3.141592653-2.6-0.999998 (TeX Live 2026)",
+        "passes": 2,
+        "cross_references_resolved": true
+      }
+    }
+  }
+}
